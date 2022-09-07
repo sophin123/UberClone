@@ -8,5 +8,5 @@ After that Enable API and Services. Once enable add these three API Libraries:
 - Distance Matrix API
 - Directions API
 
-once that done, replace the GOOGLE_API_KEY variable with your API key
+once that done, replace the GOOGLE_API_KEY variable from my project with your API key
 
